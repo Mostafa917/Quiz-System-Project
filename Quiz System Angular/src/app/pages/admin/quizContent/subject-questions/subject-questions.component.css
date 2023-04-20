@@ -1,0 +1,7 @@
+.list-group{
+    border-radius: 0;
+}
+.list-group li{
+    border: 0;
+    font-size:larger;
+}

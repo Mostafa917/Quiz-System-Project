@@ -1,0 +1,18 @@
+<div class="card my-5 w-75 mx-auto" *ngFor="let question of questions">
+    <div class="card-body  bg-secondary text-white">
+      <h5 class="card-title">{{question.questionContent}}</h5>
+    </div>
+    <ul class="list-group list-group-flushed border-none" *ngFor="let option of question.options">
+      <li class="list-group-item bg-light">{{option}}</li>
+    </ul>
+    <div class="card-body fs-4 bg-success text-white">Answer : {{question.answer}}</div>
+    <div class="card-body bg-light text-center">
+        <button class="btn btn-primary" routerLink="../../question/{{id}}/{{question._id}}">Show</button>
+        <button class="btn btn-warning mx-2" routerLink="editUser/">Edit</button>
+        <button class="btn btn-danger" routerLink="../../delQuestion/{{id}}/{{question._id}}">Delete</button>
+    </div>
+  </div> 
+  <div class=" w-75 mx-auto">
+    <button class="btn btn-danger fload-end w-100 mb-5 py-4" routerLink="../../delSubject/{{id}}">Delete Subject</button>
+  </div>
+

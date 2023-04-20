@@ -1,0 +1,10 @@
+<div class="bg-light">
+    <h2 class="text-center bg-secondary text-white pt-2" style="height: 60px;">Choose a Subject:</h2>
+    <hr>
+    <div class="card my-3 text-white w-50 mx-auto" *ngFor="let sub of subjects">
+        <button class="btn btn-success " routerLink="startQuiz/{{sub.id}}">
+          <h3>{{sub.name}}</h3>
+        </button>
+      </div>
+    </div>
+    

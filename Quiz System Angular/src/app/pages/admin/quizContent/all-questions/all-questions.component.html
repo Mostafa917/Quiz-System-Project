@@ -1,0 +1,11 @@
+<div class="card my-5 w-75 mx-auto" *ngFor="let question of questions ; let i = index">
+    <div class="card-body  bg-secondary text-white">
+      <h5 class="card-title">{{question.questionContent}}</h5>
+    </div>
+    <ul class="list-group list-group-flushed border-none" *ngFor="let option of question.options">
+      <li class="list-group-item bg-light">{{option}}</li>
+    </ul>
+    <div class="card-body fs-4 bg-success text-white">Answer : {{question.answer}}</div>
+    <div class="card-body fs-4 bg-warning text-white">Subject : {{subjects[i]}}</div>
+  </div>
+

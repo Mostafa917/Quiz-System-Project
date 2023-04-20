@@ -1,0 +1,18 @@
+.btn-info:hover{
+    background-color: #2cadca !important;
+}
+body{
+    background: url("/assets/img/quizImage.jpg")  no-repeat center center fixed !important;
+    height: 100% !important;
+}
+
+.nav-item .nav-link {
+    color: white;
+     
+    border-radius: 5px;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: rgb(41, 40, 40);
+    background-color: #3cff00;
+}

@@ -1,0 +1,28 @@
+<div class="bg-light border border-1 rounded mb-5">
+
+    <div class="h1 text-center bg-warning text-white py-2">
+        {{subName}} Quiz
+    </div>
+    <form #quizForm="ngForm" class="mx-auto" (submit)="submitAnswers(quizForm)">
+        <div class="card my-5 w-75 mx-auto" *ngFor="let question of quiz; let i = index">
+            <div class="card-body bg-secondary text-white">
+              <h5 class="card-title">{{question.questionContent}}</h5>
+            </div>
+            <ul class="list-group list-group-flushed border-none">
+              <li class="list-group-item bg-light" *ngFor="let option of question.options">
+                <input type="radio" name="question {{i}}" value="{{option}}" ngModel required>
+                {{option}}
+            </li>
+            </ul>
+          </div>
+          <div class="text-center mb-5">
+            <button type="submit" class="btn btn-primary fs-3 mb-2" >Submit Answers</button>
+          </div>
+          <div class="alert alert-danger text-center" *ngIf="msg && !msgFlag">
+            {{msg |json}}
+        </div>
+        <div class="alert alert-success text-center" *ngIf="msg && msgFlag">
+            {{msg |json}}
+        </div>
+      </form>
+</div>
