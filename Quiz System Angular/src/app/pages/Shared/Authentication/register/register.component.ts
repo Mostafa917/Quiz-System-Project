@@ -56,22 +56,9 @@ export class RegisterComponent {
       if(this.emailFlag && this.usernameFlag){
       this.userService.register(this.model).subscribe(res=>{
         if(res.apiStatus)
-        {
-          if(this.model.request){
-            this.msgSuccess = "Registration Complete a request has been sent to the admin for your admin registration request you will be redirected to Login in 5...";
-            setTimeout(() => {
-              this._router.navigateByUrl('/login');
-            }, 5000);
-           
+        { 
+          this._router.navigateByUrl('/login');
           }
-          else{
-            this.msgSuccess = "Registration Complete you will be redirected to Login in 3...";
-            setTimeout(() => {
-              this._router.navigateByUrl('/login');
-            }, 3000);
-          }
-          
-      }
 
       }, (e)=>{
         console.log(e.error.message)

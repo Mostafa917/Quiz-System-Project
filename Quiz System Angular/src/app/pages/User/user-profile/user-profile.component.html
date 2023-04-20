@@ -2,9 +2,10 @@
     <table class="table" >
         <thead class="text-center table-dark">
           <tr>
-            <th scope="col">ID</th>
+            <th scope="col">Username</th>
             <th scope="col">First Name</th>
-            <th scope="col">Last Name</th>
+              <th scope="col">Last Name</th>
+            <th scope="col">Adminstration</th>
             <th scope="col">E-mail</th>
             <th scope="col">Age</th>
             <th scope="col">Gender</th>
@@ -12,40 +13,31 @@
         </thead>
         <tbody class="text-center table-light">
         <tr>
-            <td>{{user._id}}</td>
+            <td>{{user.username}}</td>
             <td>{{user.fname}}</td>
             <td>{{user.lname}}</td>
+            <td>{{user.isAdmin}}</td>
             <td>{{user.email}}</td>
             <td>{{user.age}}</td>
             <td>{{user.gender}}</td>
             
           </tr>
         </tbody>
-        <br>
+      </table>
+      <table class="table">
         <thead class="table-secondary text-center">
-            <tr>
-
-              <th scope="col">Username</th>
-              <th scope="col">Adminstration</th>
-              <th scope="col">Account Status</th>
-              <th scope="col">Created At:</th>
-              <th scope="col">Last Updated:</th>
-              <th scope="col">Results</th>
-            </tr>
-          </thead>
-          <tbody class="text-center table-light">
           <tr>
-            <td>{{user.username}}</td>
-              <td>{{user.isAdmin}}</td>
-              <td>{{user.activeStatus}}</td>
-              <td>{{user.createdAt | date:'M/d/yy, h:mm a'}}</td>
-              <td>{{user.updatedAt | date:'M/d/yy, h:mm a'}}</td>
-              <td>
-                <div *ngFor="let result of user.quizResults">{{result.subject}} : {{result.mark}}</div>
-              </td>
-            </tr>
+            <th scope="col" class="w-50 fs-2">Results</th>
+          </tr>
+        </thead>
+        <tbody class="text-center table-light">
+        <tr>
+            <td>
+              <div class="fs-4" *ngFor="let result of user.quizResults">{{result.subject}} : {{result.mark}}</div>
+            </td>
+          </tr>
           </tbody>
       </table>
-        <button class="btn btn-danger float-end w-25" routerLink="/user/activation/{{user._id}}">Deactivate</button>
-        <button class="btn btn-warning mx-2 w-25" routerLink="/users/editUser/{{user._id}}">Edit</button>
+        <button class="btn btn-danger float-end w-25" routerLink="/user/activation/{{user._id}}">Deactivate Account</button>
+        <button class="btn btn-warning mx-2 w-25" routerLink="/users/editUser/{{user._id}}">Edit Profile</button>
 </div>

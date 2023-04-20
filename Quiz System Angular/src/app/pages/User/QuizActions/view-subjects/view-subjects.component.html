@@ -1,8 +1,11 @@
-<div class="bg-light">
+<div class="bg-light rounded pb-3">
     <h2 class="text-center bg-secondary text-white pt-2" style="height: 60px;">Choose a Subject:</h2>
     <hr>
+    <div class="alert alert-danger text-center mx-auto mt-3" *ngIf="errMsg">
+      {{errMsg}}
+  </div>
     <div class="card my-3 text-white w-50 mx-auto" *ngFor="let sub of subjects">
-        <button class="btn btn-success " routerLink="startQuiz/{{sub.id}}">
+        <button class="btn btn-success " (click)="checkQuizzesTaken(sub,sub.id)">
           <h3>{{sub.name}}</h3>
         </button>
       </div>

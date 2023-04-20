@@ -37,14 +37,10 @@ export class StartQuizComponent {
     else{
       this.msg = res.message;
       this.msgFlag = true;
-      setTimeout(() => {
-        this._router.navigateByUrl(`user/profile/${this.globalService.userData._id}`);
-    }, 5000);
+      this._router.navigateByUrl(`user/profile/${this.globalService.userData._id}`);
     }
- 
 
    },(e)=>{
-    console.log(e.error.message);
     this.msg = e.error.message;
    }
    )
