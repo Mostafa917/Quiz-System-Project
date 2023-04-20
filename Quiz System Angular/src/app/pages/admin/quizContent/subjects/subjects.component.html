@@ -1,4 +1,4 @@
-<div class="bg-light">
+<div class="bg-light pb-4">
 <div class="card my-3">
   <button class="btn btn-info text-white" routerLink="allQuestions">
     <h3>Show All Questions</h3>
@@ -8,14 +8,14 @@
 <h2 class="text-center bg-secondary text-white pt-2" style="height: 60px;">Choose a Subject:</h2>
 <hr>
 <div class="card my-3 text-white w-50 mx-auto" *ngFor="let sub of subjects">
-    <button class="btn btn-success " routerLink="subjectQuestions/{{sub.id}}">
+    <button class="btn btn-success" routerLink="subjectQuestions/{{sub.id}}">
       <h3>{{sub.name}}</h3>
     </button>
   </div>
-  <div class="bg-light">
-    <button class="btn btn-danger text-white float-end" routerLink="delAllSubjects">
-         Delete All
-    </button>
-  </div>
- 
+
+</div>
+<div class="bg-light mt-2">
+  <button class="btn btn-danger text-white float-end" routerLink="delAllSubjects">
+       Delete All
+  </button>
 </div>

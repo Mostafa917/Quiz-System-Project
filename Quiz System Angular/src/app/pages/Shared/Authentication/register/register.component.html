@@ -79,15 +79,16 @@
             <label class="text-white fs-5 me-2">Register as Admin:</label><input type="checkbox"
             [(ngModel)]="model.request" value="true" name="request" #request="ngModel">
         </div>
-        <div class="text-center mt-4">
-            <button class="btn btn-light text-center">Register</button>
-        </div>
         <div class="alert alert-danger text-center mx-auto mt-3" *ngIf="msgError">
             {{msgError}}
         </div>
         <div class="alert alert-success text-center mx-auto mt-3" *ngIf="msgSuccess">
             {{msgSuccess}}
         </div>
+        <div class="text-center mt-4">
+            <button class="btn btn-light text-center">Register</button>
+        </div>
+
         
     </div>
 </form>
