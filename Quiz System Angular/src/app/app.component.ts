@@ -10,13 +10,14 @@ import { Router } from '@angular/router';
 export class AppComponent {
   title = 'QuizSystemFrontend';
   constructor(private globalService:GlobalService){
-    if(localStorage.getItem("token")){
+    //check if token exists
+    if(this.globalService.isLoggedIn()){
       const token = {
         "token":localStorage.getItem("token")
       }
+      //get token and call getTokenId to get the user
       this.globalService.getTokenId(token).subscribe(res=>{
        globalService.userData = res.data;
-       console.log(globalService.userData);
       },()=>{
 
       },()=>{

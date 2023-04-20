@@ -8,20 +8,41 @@ class User{
     static register = async(req,res)=>{
         try{
             const userData = new userModel(req.body);
-           if(!req.body.isAdmin||req.body.username == "MainAdmin"){
-            await userData.save();
-            handler.resHandler(res, 200, true, userData, "User Has Been Added!");
-           }
-           else{
-             userData.request = true;
-             userData.isAdmin = false;
-             await userData.save();
-            handler.resHandler(res, 200, true, userData, "admin Request Sent");
-           }
+            const users = await userModel.find();
+            const userByUsername = users.find(u=>u.username == req.body.username);
+            const userByEmail = users.find(u=>u.email == req.body.email);
+            console.log(userByEmail,userByUsername);
+            if(req.body.username.toLowerCase().includes("admin")){
+                handler.resHandler(res, 403, false, {},"Username can't include admin");
+            }
+            else{
+          if(userByUsername && userByEmail){
+            handler.resHandler(res, 403, false, {}, "Username and Email are Already Registered");
+          }
+          else if(userByUsername && !userByEmail){
+            handler.resHandler(res, 403, false,{},"Username is Taken");
+          }
+          else if(!userByUsername && userByEmail){
+            handler.resHandler(res, 403, false,{},"Email is already Registered");
+          }
+          else if(!userByEmail&&!userByUsername){
+            if(!req.body.isAdmin){
+                await userData.save();
+                handler.resHandler(res, 200, true, userData, "User Has Been Added!");
+               }
+               else{
+                 userData.request = true;
+                 userData.isAdmin = false;
+                 await userData.save();
+                handler.resHandler(res, 200, true, userData, "admin Request Sent");
+               }
+          }
+
+        }
           
         }
         catch(e){
-            handler.resHandler(res, 500, false, e, "Error Adding data");
+            handler.resHandler(res, 500, false, e.message, "Error Adding data");
         }
     }
     static single = async(req,res)=>{

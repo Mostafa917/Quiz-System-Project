@@ -10,7 +10,7 @@ export class GlobalService {
   constructor(private http:HttpClient){
 
   }
-isLogin = false;
+ isLogin = false;
  userData:any ={};
  getTokenId(token:any):Observable<any>{
   return this.http.post(`http://localhost:2500/api/user/userTokenId`,token);

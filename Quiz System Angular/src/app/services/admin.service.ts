@@ -52,4 +52,7 @@ export class AdminService {
   manageAdminRequests(id:any,response:any):Observable<any>{
     return this.http.put(`${this.baseUrl}/viewRequests/${id}&${response}`,{});
   }
+  editUsers(data:any,id:any):Observable<any>{
+    return this.http.put(`${this.baseUrl}/viewUsers/editUser/${id}`,data);
+  }
 }

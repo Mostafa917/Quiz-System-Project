@@ -16,7 +16,6 @@ import { StartQuizComponent } from './pages/User/QuizActions/start-quiz/start-qu
 import { LoginComponent } from './pages/Shared/Authentication/login/login.component';
 import { HomepageComponent } from './pages/Shared/homepage/homepage.component';
 import { RegisterComponent } from './pages/Shared/Authentication/register/register.component';
-import { ProfileComponent } from './pages/admin/profile/profile.component';
 import { FormsModule } from '@angular/forms';
 import { NavbarComponent } from './pages/Shared/navbar/navbar.component';
 import { DeleteUserComponent } from './pages/admin/userActions/delete-user/delete-user.component';
@@ -49,7 +48,6 @@ import { ManagingAdminRequestsComponent } from './pages/admin/userActions/managi
     LoginComponent,
     HomepageComponent,
     RegisterComponent,
-    ProfileComponent,
     NavbarComponent,
     DeleteUserComponent,
     DeleteAllUsersComponent,

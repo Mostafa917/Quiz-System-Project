@@ -20,7 +20,6 @@ import { ViewSubjectsComponent } from './pages/User/QuizActions/view-subjects/vi
 import { RegisterComponent } from './pages/Shared/Authentication/register/register.component';
 import { LoginComponent } from './pages/Shared/Authentication/login/login.component';
 import { LogoutComponent } from './pages/Shared/Authentication/logout/logout.component';
-import { ProfileComponent } from './pages/admin/profile/profile.component';
 import { UserProfileComponent } from './pages/User/user-profile/user-profile.component';
 import { ActivationComponent } from './pages/User/activation/activation.component';
 import { AuthGuard } from './guards/auth.guard';
@@ -29,6 +28,7 @@ import { UnauthorizedComponent } from './pages/auth/unauthorized/unauthorized.co
 import { UserAuthGuardGuard } from './guards/user-auth-guard.guard';
 import { AdminRequestComponent } from './pages/admin/userActions/admin-request/admin-request.component';
 import { ManagingAdminRequestsComponent } from './pages/admin/userActions/managing-admin-requests/managing-admin-requests.component';
+import { EditUserComponent } from './pages/admin/userActions/edit-user/edit-user.component';
 
 const routes: Routes = [
   
@@ -36,7 +36,7 @@ const routes: Routes = [
     {path:'',component:AllUsersComponent},
     {path:'user/:id',component:SingleUserComponent},
     {path:'deleteUser/:id',component:DeleteUserComponent},
-    {path:'editUser/:id',component:EditQuestionComponent},
+    {path:'editUser/:id',component:EditUserComponent},
     {path:'deleteAllUsers',component:DeleteAllUsersComponent},
     {path:'adminRequests',component:AdminRequestComponent},
     {path:'manageAdminRequests/:id/:response',component:ManagingAdminRequestsComponent}

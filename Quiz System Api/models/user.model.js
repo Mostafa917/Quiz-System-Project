@@ -8,7 +8,6 @@ const userSchema = mongoose.Schema({
     username:{
         type:String,
         trim:true,
-        unique:true,
         required:true,
         lowercase:true,
         minLength:5,
@@ -42,7 +41,6 @@ const userSchema = mongoose.Schema({
         trim:true,
         required:true,
         lowercase:true,
-        unique:true,
         validate(value){
             if(!validator.isEmail(value)) 
                 throw new Error("invalid email format")
