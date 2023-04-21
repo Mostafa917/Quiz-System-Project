@@ -7,11 +7,11 @@ const router = require("express").Router()
 //Admin=>Users Routes//
 router.get("/viewUsers",auth.adminAuth,sharedController.showAllUsers);
 router.get("/viewUsers/:id",auth.adminAuth,adminController.showSingleUser);
-router.put("/viewUsers/editUser/:id",auth.adminAuth,adminController.editUser);
+router.put("/viewUsers/editUser/:id",auth.adminAuth,sharedController.editUser);
 router.post("/viewUsers/delAllUsers",auth.adminAuth,adminController.delAllUsers);
 router.post("/viewUsers/delUser/:id",auth.adminAuth,adminController.delUser);
 //Admin=>Users Routes//
-
+router.get("/viewProfile/:id",auth.adminAuth,sharedController.viewProfile);
 //Admin=>Quiz Routes//
 router.get("/subjects",auth.adminAuth,sharedController.showSubjects);
 router.get("/subjects/showAllSubjectQuestions",auth.adminAuth,adminController.showAllQuestions);

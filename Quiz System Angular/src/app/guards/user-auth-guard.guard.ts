@@ -10,7 +10,7 @@ export class UserAuthGuardGuard implements CanActivate {
   constructor(private global:GlobalService,private router: Router){}
   canActivate(){
     if(this.global.isLoggedIn()){
-      if(this.global.userData.isAdmin == false){
+      if(localStorage.getItem("isAdmin")=="false"){
         return true;
       }
       else{

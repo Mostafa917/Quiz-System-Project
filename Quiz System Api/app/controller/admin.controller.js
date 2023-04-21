@@ -14,37 +14,6 @@ class Admin{
             handler.resHandler(res, 500, false, e.message, `Error Fetching ${req.params.id} Data`)
         }
     }
-    static editUser = async(req,res)=>{
-        try{
-            const userData = await userModel.findById(req.params.id);
-            if(req.body.username.toLowerCase().includes("admin")){
-                handler.resHandler(res, 403, false, {},"Username can't include admin");
-            }
-            else{
-          if(userByUsername && userByEmail){
-            handler.resHandler(res, 403, false, {}, "Username and Email are Already Registered");
-          }
-          else if(userByUsername && !userByEmail){
-            handler.resHandler(res, 403, false,{},"Username is Taken");
-          }
-          else if(!userByUsername && userByEmail){
-            handler.resHandler(res, 403, false,{},"Email is already Registered");
-          }
-          else if(!userByEmail&&!userByUsername){
-            for(let key in req.body){
-                if(req.body[key] != ""){ 
-                    userData[key]= req.body[key]
-                }
-               
-            }
-            await userData.save()
-            handler.resHandler(res, 200, true, userData, "User Edited!")
-          }}
-        }
-        catch(e){
-            handler.resHandler(res, 500, false, e.message, "Error Editting User")
-        }
-    }
     static delAllUsers = async(req,res)=>{
         try{
             await userModel.deleteMany({isAdmin:false});

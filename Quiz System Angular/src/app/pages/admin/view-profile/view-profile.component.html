@@ -24,20 +24,5 @@
           </tr>
         </tbody>
       </table>
-      <table class="table">
-        <thead class="table-secondary text-center">
-          <tr>
-            <th scope="col" class="w-50 fs-2">Results</th>
-          </tr>
-        </thead>
-        <tbody class="text-center table-light">
-        <tr>
-            <td>
-              <div class="fs-4" *ngFor="let result of user.quizResults">{{result.subject}} : {{result.mark}}</div>
-            </td>
-          </tr>
-          </tbody>
-      </table>
-        <button class="btn btn-danger float-end w-25" routerLink="/user/activation/{{user._id}}">Deactivate Account</button>
-        <button class="btn btn-warning mx-2 w-25" routerLink="/user/editProfile/{{user._id}}">Edit Profile</button>
+        <button class="btn btn-warning mx-2 w-25" routerLink="/users/editUser/{{user._id}}">Edit Profile</button>
 </div>

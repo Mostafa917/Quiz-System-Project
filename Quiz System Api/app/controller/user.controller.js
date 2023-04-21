@@ -5,7 +5,7 @@ const resultModel = require("../../models/result.model");
 const _ = require('lodash');
 
 class User{
-    static register = async(req,res)=>{
+static register = async(req,res)=>{
         try{
             const userData = new userModel(req.body);
             const users = await userModel.find();
@@ -45,40 +45,7 @@ class User{
             handler.resHandler(res, 500, false, e.message, "Error Adding data");
         }
     }
-    static single = async(req,res)=>{
-        try{
-            const userData = await userModel.findById(req.params.id)
-            handler.resHandler(res, 200, true, userData, "users featched")
-        }
-        catch(e){
-            handler.resHandler(res, 500, false, e.message, "Error featch data")
-        }
-    }
-
-    static delSingle = async(req,res)=>{
-        try{
-            const userData = await userModel.findByIdAndDelete(req.params.id)
-            handler.resHandler(res, 200, true, userData, "users featched")
-        }
-        catch(e){
-            handler.resHandler(res, 500, false, e.message, "Error featch data")
-        }
-    }
-    static editSingle = async(req,res)=>{
-        try{
-            const userData = await userModel.findById(req.params.id)
-            for(let key in req.body){
-                userData[key]= req.body[key]
-            }
-            await userData.save()
-            handler.resHandler(res, 200, true, userData, "User Editted!")
-        }
-        catch(e){
-            handler.resHandler(res, 500, false, e.message, "Error Editing User")
-        }
-    }
-    
-    static generateQuiz = async(req,res)=>{
+static generateQuiz = async(req,res)=>{
         try{
             const subject= await quizModel.findById(req.params.id);
             const subName = subject.subject;

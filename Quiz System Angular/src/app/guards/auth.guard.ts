@@ -11,7 +11,8 @@ export class AuthGuard implements CanActivate {
  constructor(private global:GlobalService,private router: Router){}
   canActivate(){
     if(this.global.isLoggedIn()){
-      if(this.global.userData.isAdmin){
+
+      if(localStorage.getItem("isAdmin")=="true"){
         return true;
       }
       else{

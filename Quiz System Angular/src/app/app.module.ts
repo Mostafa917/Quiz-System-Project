@@ -32,6 +32,8 @@ import { ActivationComponent } from './pages/User/activation/activation.componen
 import { UnauthorizedComponent } from './pages/auth/unauthorized/unauthorized.component';
 import { AdminRequestComponent } from './pages/admin/userActions/admin-request/admin-request.component';
 import { ManagingAdminRequestsComponent } from './pages/admin/userActions/managing-admin-requests/managing-admin-requests.component';
+import { EditProfileComponent } from './pages/User/edit-profile/edit-profile.component';
+import { ViewProfileComponent } from './pages/admin/view-profile/view-profile.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -62,6 +64,8 @@ import { ManagingAdminRequestsComponent } from './pages/admin/userActions/managi
     UnauthorizedComponent,
     AdminRequestComponent,
     ManagingAdminRequestsComponent,
+    EditProfileComponent,
+    ViewProfileComponent,
   ],
   imports: [
     BrowserModule,

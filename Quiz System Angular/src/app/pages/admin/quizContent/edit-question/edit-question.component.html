@@ -1,1 +1,80 @@
-<p>edit-question works!</p>
+<form #loginform="ngForm" (ngSubmit)="handleSubmit(loginform)" class="bg-primary py-3 rounded" >
+
+    <div class="text-center text-white">
+       <h1>Question Form</h1>
+       <hr>
+    </div>
+    <div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">Subject:</label>
+            <input type="text" placeholder="Enter Subject" class="form-control"
+             [(ngModel)]="model.subject" name="subject" #subject="ngModel" required subject minlength="2" maxlength="20">
+             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && subject.invalid">
+                <div *ngIf="subject.errors?.['required']">Subject is required</div>
+                <div *ngIf="subject.errors?.['minlength']">min length = 2</div>  
+             </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">Question Content:</label>
+            <input type="text" placeholder="enter Question Content" class="form-control"
+             [(ngModel)]="model.question[0].questionContent" name="questionContent" #questionContent="ngModel" required questionContent minlength="3" maxlength="400">
+             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && questionContent.invalid">
+                <div *ngIf="questionContent.errors?.['required']">Question is required</div>
+                <div *ngIf="questionContent.errors?.['minlength']">min length = 3</div>
+             </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">Answer:</label>
+            <input type="text" placeholder="enter Answer" class="form-control"
+             [(ngModel)]="model.question[0].answer" name="answer" #answer="ngModel" required answer minlength="1" maxlength="40">
+             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && answer.invalid">
+                <div *ngIf="answer.errors?.['required']">Answer is required</div>
+                <div *ngIf="answer.errors?.['minlength']">min length = 1</div>
+             </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-5">Option 1:</label>
+            <input type="text" placeholder="enter Option..." class="form-control" [(ngModel)]="model.question[0].options[0]" name="option" #option1="ngModel" required option1 minlength="1" maxlength="40">
+             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && option1.invalid">
+                <div *ngIf="option1.errors?.['required']">Option 1 is required</div>
+                <div *ngIf="option1.errors?.['minlength']">min length = 1</div>
+             </div>
+             <label class="text-white fs-5">Option 2:</label>
+             <input type="text" placeholder="enter Option..." class="form-control my-2" [(ngModel)]="model.question[0].options[1]" name="option2" #option2="ngModel" required option2 minlength="1" maxlength="40">
+             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && option2.invalid">
+                <div *ngIf="option2.errors?.['required']">Option 2 is required</div>
+                <div *ngIf="option2.errors?.['minlength']">min length = 1</div>
+             </div>
+             <label class="text-white fs-5">Option 3:</label>
+             <input type="text" placeholder="enter Option..." class="form-control my-2" [(ngModel)]="model.question[0].options[2]" name="option3" #option3="ngModel" required option3 minlength="1" maxlength="40">
+             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && option3.invalid">
+                <div *ngIf="option3.errors?.['required']">Option 3 is required</div>
+                <div *ngIf="option3.errors?.['minlength']">min length = 1</div>
+             </div>
+             <label class="text-white fs-5">Option 4:</label>
+             <input type="text" placeholder="enter Option..." class="form-control" [(ngModel)]="model.question[0].options[3]" name="option4" #option4="ngModel" required option4 minlength="1" maxlength="40">
+             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && option4.invalid">
+                <div *ngIf="option4.errors?.['required']">Option 4 is required</div>
+                <div *ngIf="option4.errors?.['minlength']">min length = 1</div>
+             </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">Mark:</label>
+            <input type="number" placeholder="enter Mark" class="form-control"
+             [(ngModel)]="model.question[0].mark" name="mark" #mark="ngModel" required mark min="1" max="100">
+             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && mark.invalid">
+                <div *ngIf="mark.errors?.['required']">Mark is required</div>
+                <div *ngIf="mark.errors?.['max']">Max Mark = 100</div>
+                <div *ngIf="mark.errors?.['min']">Minimum Mark = 1</div>
+             </div>
+        </div>
+
+        <div class="text-center mt-4">
+            <button class="btn btn-light text-center">Submit Question</button>
+        </div>
+        <div class="alert alert-danger text-center mx-auto mt-3" *ngIf="msgError">
+            {{msgError}}
+        </div>
+        
+    </div>
+</form>

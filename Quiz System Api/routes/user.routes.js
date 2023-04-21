@@ -13,5 +13,6 @@ router.post("/logout",auth.userAuth,sharedController.logout);
 router.post("/logoutAll",auth.userAuth,sharedController.logoutAll);
 router.get("/viewProfile/:id",auth.userAuth,sharedController.viewProfile);
 router.post("/userTokenId",sharedController.getTokenId);
-router.put("/activation/:id",auth.userAuth,sharedController.activation)
+router.put("/activation/:id",auth.userAuth,sharedController.activation);
+router.put("/editProfile/:id",auth.userAuth,sharedController.editUser);
 module.exports = router;

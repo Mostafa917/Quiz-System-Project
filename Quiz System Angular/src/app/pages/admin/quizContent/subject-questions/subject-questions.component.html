@@ -8,7 +8,7 @@
     <div class="card-body fs-4 bg-success text-white">Answer : {{question.answer}}</div>
     <div class="card-body bg-light text-center">
         <button class="btn btn-primary" routerLink="../../question/{{id}}/{{question._id}}">Show</button>
-        <button class="btn btn-warning mx-2" routerLink="editUser/">Edit</button>
+        <button class="btn btn-warning mx-2" routerLink="/subjects/editQuestion/{{question.subId}}/{{question.questId}}">Edit</button>
         <button class="btn btn-danger" routerLink="../../delQuestion/{{id}}/{{question._id}}">Delete</button>
     </div>
   </div> 

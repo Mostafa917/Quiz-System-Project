@@ -75,15 +75,15 @@ static viewProfile = async(req,res)=>{
         const profileData = await userModel.findById(req.params.id);
         for(let index in profileData.tokens){
             if(profileData.tokens[index].token == req.token){
-                handler.resHandler(res, 200, true, profileData, "Profile Viewed!");
+                handler.resHandler(res, 200, true, profileData, "Data Fetched!");
                 return;
             }
         }
-           handler.resHandler(res, 200, true, {}, "Unauthorized!");
+           handler.resHandler(res, 403, false, {}, "Unauthorized!");
         
     }
     catch(e){
-        handler.resHandler(res, 500, false, e.message, "Error Viewing Profile");
+        handler.resHandler(res, 500, false, e.message, "Error Fetching Data");
     }
 
 }
@@ -146,5 +146,63 @@ static showSubjects = async (req,res)=>{
         handler.resHandler(res, 500, false, e.message, "Error During Activation/Deactivation")
     }
   }
+  static editUser = async(req,res)=>{
+    try{
+        const userData = await userModel.findById(req.params.id);
+        const users = await userModel.find();
+        const userName =  users.find(u=>u.username == req.body.username);
+        const userEmail =  users.find(u=>u.email == req.body.email);
+        let usernameFlag = false;
+        let emailFlag = false; 
+        
+        if(req.body.username.toLowerCase().includes("admin") && userData.username !="mainadmin"){
+            handler.resHandler(res, 403, false, {},"Username can't include admin");
+        }
+        else{
+          
+        if(userName){
+            if(userName._id==req.params.id){
+                usernameFlag = false;
+             }
+             else{
+                usernameFlag = true;
+             }
+        }
+         if(userEmail){
+            if(userEmail._id == req.params.id){
+                emailFlag = false;
+             }
+             else{
+                emailFlag = true;
+             }
+         }
+
+       
+      if(usernameFlag&&emailFlag){
+        handler.resHandler(res, 403, false, {}, "Username and Email are Already Registered");
+      }
+      else if(usernameFlag&&!emailFlag){
+        handler.resHandler(res, 403, false, {}, "Username is Already Taken");
+      }
+      else if(!usernameFlag&&emailFlag){
+        handler.resHandler(res, 403, false, {}, "Email is Already Registered");
+      }
+      else if(!usernameFlag&&!emailFlag){
+        for(let key in req.body){
+            if(req.body[key] != ""){ 
+                userData[key]= req.body[key]
+            }
+           
+        }
+        await userData.save()
+        handler.resHandler(res, 200, true, userData, "User Edited!")
+      }}
+    }
+    catch(e){
+        handler.resHandler(res, 500, false, e.message, "Error Editting User")
+    }
+}
+
+
 }
 module.exports = Shared;

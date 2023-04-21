@@ -28,10 +28,13 @@ export class UserService {
    login(data:any):Observable<any>{
     return this.http.post(`${this.baseUrl}/login`,data);
    }
-   viewUserProfile(id:any):Observable<any>{
-    return this.http.get(`${this.baseUrl}/viewProfile/${id}`);
-   }
    activation(id:any):Observable<any>{
     return this.http.put(`${this.baseUrl}/activation/${id}`,{});
+   }
+   editProfile(id:any,data:any):Observable<any>{
+    return this.http.put(`${this.baseUrl}/editProfile/${id}`,data);
+   }
+   viewUserProfile(id:any):Observable<any>{
+    return this.http.get(`${this.baseUrl}/viewProfile/${id}`);
    }
 }

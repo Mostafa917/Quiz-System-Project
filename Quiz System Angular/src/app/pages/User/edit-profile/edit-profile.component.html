@@ -1,0 +1,86 @@
+<form #loginform="ngForm" (ngSubmit)="handleSubmit(loginform)" class="py-3 rounded" autocomplete="off" >
+
+    <div class="text-center text-white">
+       <h1>Edit Profile</h1>
+       <hr>
+    </div>
+    <div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">Username:</label>
+            <input type="name" placeholder="Enter Username" class="form-control"
+             [(ngModel)]="model.username" name="username" #username="ngModel" required username minlength="5">
+             <div class="alert alert-danger" *ngIf="loginform.submitted && username.invalid">
+                <div *ngIf="username.errors?.['required']">Username is required</div>
+                <div *ngIf="username.errors?.['minlength']">min length = 5</div>
+                
+             </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">Email:</label>
+            <input type="email" placeholder="enter Email" class="form-control"
+             [(ngModel)]="model.email" name="email" #email="ngModel" required email>
+             <div class="alert alert-danger" *ngIf="loginform.submitted && email.invalid">
+                <div *ngIf="email.errors?.['required']">Email is required</div>
+                <div *ngIf="email.errors?.['email']">Invalid Email</div>
+             </div>
+        </div>
+        <div class="w-50 mx-auto">
+            <label class="text-white fs-3">Password:</label>
+            <input type="password" placeholder="enter password" class="form-control"
+            [(ngModel)]="model.password" name="password" #password="ngModel" (input)="msgError = null" minlength="5">
+            <div class="alert alert-danger" *ngIf="password.invalid && (password.dirty || loginform.submitted )">
+                <div *ngIf="password.errors?.['minlength']">min length is 5</div>
+            </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">First Name:</label>
+            <input type="name" placeholder="Enter First Name.." class="form-control"
+             [(ngModel)]="model.fname" name="fname" #fname="ngModel" required fname minlength="5" pattern="^[a-zA-Z]+$">
+             <div class="alert alert-danger" *ngIf="loginform.submitted && fname.invalid">
+                <div *ngIf="fname.errors?.['required']">first Name is required</div>
+                <div *ngIf="fname.errors?.['minlength']">min length = 5</div>
+                <div *ngIf="fname.errors?.['pattern']">Only letters Allowed</div>
+             </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">Last Name:</label>
+            <input type="name" placeholder="Enter Last Name.." class="form-control"
+             [(ngModel)]="model.lname" name="lname" #lname="ngModel" required lname minlength="5" pattern="^[a-zA-Z]+$">
+             <div class="alert alert-danger" *ngIf="loginform.submitted && lname.invalid">
+                <div *ngIf="lname.errors?.['required']">Last Name is required</div>
+                <div *ngIf="lname.errors?.['minlength']">min length = 5</div>
+                <div *ngIf="lname.errors?.['pattern']">Only letters Allowed</div>
+             </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-3">Age:</label>
+            <input type="number"  inputmode="numeric" oninput="this.value = this.value.replace(/\D+/g, '')"  placeholder="Enter Age..." class="form-control"
+             [(ngModel)]="model.age" name="age" #age="ngModel" required age min="12" max="100">
+             <div class="alert alert-danger" *ngIf="loginform.submitted && age.invalid">
+                <div *ngIf="age.errors?.['required']">Age is required</div>
+                <div *ngIf="age.errors?.['min']">Min Age = 12</div>
+                <div *ngIf="age.errors?.['max']">Max Age = 100</div>
+             </div>
+        </div>
+        <div class="w-50 mx-auto my-3">
+            <label class="text-white fs-5 me-2">Gender:</label>
+            <input type="radio"
+             [(ngModel)]="model.gender" value="male" name="gender" #gender="ngModel" required #genderControl="ngModel"><span class="fs-5 text-white ms-2 me-5">Male</span>
+             <input type="radio"
+             [(ngModel)]="model.gender" value="female" name="gender" #gender="ngModel" required><span class="fs-5 text-white ms-2 me-5">Female</span>
+
+             <div class="alert alert-danger" *ngIf="loginform.submitted && gender.invalid">
+                <div *ngIf="gender.errors?.['required']">Gender is required</div>
+             </div>
+        </div>
+        <div class="alert alert-danger text-center mx-auto mt-3" *ngIf="msgError">
+            {{msgError}}
+        </div>
+        <div class="text-center mt-4">
+            <button class="btn btn-warning text-center w-25 me-2">Edit</button>
+            <button class="btn btn-danger text-center w-25" type="button" routerLink="/user/profile/{{id}}">Cancel</button>
+        </div>
+
+        
+    </div>
+</form>

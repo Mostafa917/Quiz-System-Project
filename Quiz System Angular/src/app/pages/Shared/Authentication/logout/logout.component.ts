@@ -10,6 +10,7 @@ import { GlobalService } from 'src/app/services/global.service';
 export class LogoutComponent {
 constructor(private _router : Router, private globalService :GlobalService){
   localStorage.setItem("token","");
+  localStorage.setItem("isAdmin","");
   globalService.isLogin = false;
   globalService.userData._id = "";
   globalService.userData.isAdmin = false;

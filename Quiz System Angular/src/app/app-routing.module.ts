@@ -29,6 +29,8 @@ import { UserAuthGuardGuard } from './guards/user-auth-guard.guard';
 import { AdminRequestComponent } from './pages/admin/userActions/admin-request/admin-request.component';
 import { ManagingAdminRequestsComponent } from './pages/admin/userActions/managing-admin-requests/managing-admin-requests.component';
 import { EditUserComponent } from './pages/admin/userActions/edit-user/edit-user.component';
+import { ViewProfileComponent } from './pages/admin/view-profile/view-profile.component';
+import { EditProfileComponent } from './pages/User/edit-profile/edit-profile.component';
 
 const routes: Routes = [
   
@@ -42,11 +44,14 @@ const routes: Routes = [
     {path:'manageAdminRequests/:id/:response',component:ManagingAdminRequestsComponent}
   ],canActivate:[AuthGuard]},
 
+ {path:'profile/:id',component:ViewProfileComponent,canActivate:[AuthGuard]},
+
+
   {path:'subjects',children:[
     {path:'',component:SubjectsComponent},
     {path:'addQuestion',component:AddQuestionComponent},
     {path:'allQuestions',component:AllQuestionsComponent},
-    {path:'editQuestion/:id',component:EditQuestionComponent},
+    {path:'editQuestion/:subId/:questId',component:EditQuestionComponent},
     {path:'question/:id/:questid',component:SingleQuestionComponent},
     {path:'delQuestion/:id/:questid',component:DelQuestionComponent},
     {path:'delSubject/:id',component:DelSubjectComponent},
@@ -62,6 +67,7 @@ const routes: Routes = [
 
   {path:'user/activation/:id',component:ActivationComponent,canActivate:[UserAuthGuardGuard]},
   {path:'user/profile/:id',component:UserProfileComponent,canActivate:[UserAuthGuardGuard]},
+  {path:'user/editProfile/:id',component:EditProfileComponent,canActivate:[UserAuthGuardGuard]},
 
   {path:'logout',component:LogoutComponent},
 

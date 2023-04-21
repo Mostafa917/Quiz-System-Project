@@ -43,7 +43,7 @@ export class EditUserComponent {
       this.adminService.editUsers(this.model,this.id).subscribe(res=>{
         if(res.apiStatus)
         { 
-          this._router.navigateByUrl('/login');
+          this._router.navigateByUrl(`/users/user/${this.id}`);
           }
 
       }, (e)=>{

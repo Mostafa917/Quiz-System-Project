@@ -29,6 +29,7 @@ export class LoginComponent {
 
         if(res.apiStatus){
           localStorage.setItem("token",res.data.token);
+          localStorage.setItem("isAdmin",res.data.userData.isAdmin);
           this.globalService.userData = res.data.userData;
           this.globalService.isLogin = true;
 
