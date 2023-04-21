@@ -47,7 +47,10 @@ export class AdminService {
     return this.http.post(`${this.baseUrl}/subjects/addQuestions`,data);
   } 
   editQuestion(data:any,subjectId:any,questId:any):Observable<any>{
-    return this.http.get(`${this.baseUrl}/subjects/editQuestion/${subjectId}&${questId}`);
+    return this.http.put(`${this.baseUrl}/subjects/editQuestion/${subjectId}&${questId}`,data);
+  }
+  getQuestionWithSubject(id:any,questid:any):Observable<any>{
+    return this.http.get(`${this.baseUrl}/subjects/getQuestionWithSubject/${id}&${questid}`)
   }
   getAdminRequests():Observable<any>{
     return this.http.get(`${this.baseUrl}/viewRequests`);

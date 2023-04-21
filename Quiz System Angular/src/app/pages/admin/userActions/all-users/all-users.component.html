@@ -6,6 +6,7 @@
             <th scope="col">Last Name</th>
             <th scope="col">E-mail</th>
             <th scope="col">Active Status</th>
+            <th scope="col">Administration</th>
             <th scope="col">Actions</th>
           </tr>
         </thead>
@@ -16,13 +17,15 @@
             <td>{{item.lname}}</td>
             <td>{{item.email}}</td>
             <td>{{item.activeStatus}}</td>
+            <td>{{item.isAdmin}}</td>
             <td>
                 <button class="btn btn-primary" routerLink="user/{{item._id}}">Show</button>
                 <button class="btn btn-warning mx-2" routerLink="editUser/{{item._id}}">Edit</button>
-                <button class="btn btn-danger" routerLink="deleteUser/{{item._id}}">Delete</button>
+                <button class="btn btn-danger" *ngIf="!item.isAdmin" routerLink="deleteUser/{{item._id}}">Delete</button>
             </td>
           </tr>
           <tr>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>

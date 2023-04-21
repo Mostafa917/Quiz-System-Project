@@ -104,9 +104,22 @@ static addQuestions = async(req,res)=>{
  }
 static showSingleQuestion = async(req,res)=>{
     try{
-        const subject= await quizModel.findById(req.params.id);
-        const question = await subject.question.find(x=>x.id==req.params.questId);
-        handler.resHandler(res, 200, true, question, `Data has been Fetched Successfully!`);
+        const sub= await quizModel.findById(req.params.id);
+        const quest = await sub.question.find(x=>x.id==req.params.questId);
+        handler.resHandler(res, 200, true, quest, `Data has been Fetched Successfully!`);
+    }
+    catch(e){
+        handler.resHandler(res, 500, false, e.message, `Error Fetching ${req.params.id} Data`);
+    }
+}
+static showSingleQuestionWithSubject = async(req,res)=>{
+    try{
+        const sub= await quizModel.findById(req.params.id);
+        const subject = sub.subject;
+        const quest = await sub.question.find(x=>x.id==req.params.questId);
+        const question = [];
+        question.push(quest);
+        handler.resHandler(res, 200, true, {subject,question}, `Data has been Fetched Successfully!`);
     }
     catch(e){
         handler.resHandler(res, 500, false, e.message, `Error Fetching ${req.params.id} Data`);

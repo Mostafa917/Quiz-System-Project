@@ -12,267 +12,283 @@
 					"name": "Quiz Actions",
 					"item": [
 						{
-							"name": "view Subject/Questions",
-							"item": [
-								{
-									"name": "subject Main",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"method": "GET",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"body": {
-											"mode": "raw",
-											"raw": ""
-										},
-										"url": {
-											"raw": "{{url}}/admin/subjects",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects"
-											]
-										}
-									},
-									"response": []
+							"name": "subject Main",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": ""
 								},
-								{
-									"name": "show Single Question",
-									"request": {
-										"method": "GET",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"url": {
-											"raw": "{{url}}/admin/subjects/showQuestion/643ea673f5fe5b0ec65bd2f7&643ef95dde0ef0ee9bc46efb",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects",
-												"showQuestion",
-												"643ea673f5fe5b0ec65bd2f7&643ef95dde0ef0ee9bc46efb"
-											]
-										}
-									},
-									"response": []
-								},
-								{
-									"name": "show All Questions",
-									"request": {
-										"method": "GET",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"url": {
-											"raw": "{{url}}/admin/subjects/643f263a4eb91c49dc504cc2",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects",
-												"643f263a4eb91c49dc504cc2"
-											]
-										}
-									},
-									"response": []
-								},
-								{
-									"name": "show Subject Questions",
-									"request": {
-										"method": "GET",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"url": {
-											"raw": "{{url}}/admin/subjects/643ea673f5fe5b0ec65bd2f7",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects",
-												"643ea673f5fe5b0ec65bd2f7"
-											]
-										}
-									},
-									"response": []
+								"url": {
+									"raw": "{{url}}/admin/subjects",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects"
+									]
 								}
-							]
+							},
+							"response": []
 						},
 						{
-							"name": "subjects/Questions Operations",
-							"item": [
-								{
-									"name": "add Questions",
-									"request": {
-										"method": "POST",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"body": {
-											"mode": "raw",
-											"raw": "{\r\n    \"subject\":\"Spanish\",\r\n    \"question\":[{\r\n            \"questionContent\":\"Question7\",\r\n            \"answer\":\"2\",\r\n            \"options\":[\r\n                \"1\",\"2\",\"3\",\"4\"\r\n            ],\r\n            \"mark\":7\r\n        }\r\n    ]\r\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": {
-											"raw": "{{url}}/admin/subjects/addQuestions",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects",
-												"addQuestions"
-											]
-										}
-									},
-									"response": []
-								},
-								{
-									"name": "edit Question",
-									"request": {
-										"method": "PUT",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"body": {
-											"mode": "raw",
-											"raw": "\r\n\r\n{ \"subject\":\"Math\"\r\n    ,\"question\":[{\r\n        \"mark\": 10\r\n    }\r\n    ]\r\n\r\n}\r\n\r\n",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": {
-											"raw": "{{url}}/admin/subjects/editQuestion/643cf17e76cc4ae3e451554c&questId=643cf17e76cc4ae3e451554d",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects",
-												"editQuestion",
-												"643cf17e76cc4ae3e451554c&questId=643cf17e76cc4ae3e451554d"
-											]
-										}
-									},
-									"response": []
-								},
-								{
-									"name": "delete All Subjects",
-									"request": {
-										"method": "POST",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"url": {
-											"raw": "{{url}}/admin/subjects/delAllSubjects",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects",
-												"delAllSubjects"
-											]
-										}
-									},
-									"response": []
-								},
-								{
-									"name": "delete Question",
-									"request": {
-										"method": "POST",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"url": {
-											"raw": "{{url}}/admin/subjects/delQuestion/643e89f05b9cdd0b4a4b2f23&643e89f05b9cdd0b4a4b2f24",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects",
-												"delQuestion",
-												"643e89f05b9cdd0b4a4b2f23&643e89f05b9cdd0b4a4b2f24"
-											]
-										}
-									},
-									"response": []
-								},
-								{
-									"name": "delete Subject",
-									"request": {
-										"method": "POST",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "{{token}}",
-												"type": "default"
-											}
-										],
-										"url": {
-											"raw": "{{url}}/admin/subjects/delSubject/643ceec0f8b93718fbe515c0",
-											"host": [
-												"{{url}}"
-											],
-											"path": [
-												"admin",
-												"subjects",
-												"delSubject",
-												"643ceec0f8b93718fbe515c0"
-											]
-										}
-									},
-									"response": []
+							"name": "show Single Question",
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/admin/subjects/showQuestion/6440979bbc87fe79277418f9&6440979bbc87fe79277418fa",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"showQuestion",
+										"6440979bbc87fe79277418f9&6440979bbc87fe79277418fa"
+									]
 								}
-							]
+							},
+							"response": []
+						},
+						{
+							"name": "show Single Question with Subject",
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/admin/subjects/getQuestionWithSubject/6440979bbc87fe79277418f9&6440979bbc87fe79277418fa",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"getQuestionWithSubject",
+										"6440979bbc87fe79277418f9&6440979bbc87fe79277418fa"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "show All Questions",
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/admin/subjects/643f47a038d73f252eacae82",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"643f47a038d73f252eacae82"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "show Subject Questions",
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/admin/subjects/6440979bbc87fe79277418f9",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"6440979bbc87fe79277418f9"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "add Questions",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"subject\":\"Spanish\",\r\n    \"question\":[{\r\n            \"questionContent\":\"Question7\",\r\n            \"answer\":\"3\",\r\n            \"options\":[\r\n                \"1\",\"2\",\"3\",\"4\"\r\n            ],\r\n            \"mark\":7\r\n        }\r\n    ]\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{url}}/admin/subjects/addQuestions",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"addQuestions"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "edit Question",
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "\r\n\r\n{ \"subject\":\"English\"\r\n    ,\"question\":[{\r\n        \"mark\": 12\r\n    }\r\n    ]\r\n    \r\n\r\n}\r\n\r\n",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{url}}/admin/subjects/editQuestion/6440979bbc87fe79277418f9&6440979bbc87fe79277418fa",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"editQuestion",
+										"6440979bbc87fe79277418f9&6440979bbc87fe79277418fa"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "delete All Subjects",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/admin/subjects/delAllSubjects",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"delAllSubjects"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "delete Question",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/admin/subjects/delQuestion/643e89f05b9cdd0b4a4b2f23&643e89f05b9cdd0b4a4b2f24",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"delQuestion",
+										"643e89f05b9cdd0b4a4b2f23&643e89f05b9cdd0b4a4b2f24"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "delete Subject",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/admin/subjects/delSubject/643ceec0f8b93718fbe515c0",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"admin",
+										"subjects",
+										"delSubject",
+										"643ceec0f8b93718fbe515c0"
+									]
+								}
+							},
+							"response": []
 						}
 					]
 				},
@@ -287,8 +303,7 @@
 									{
 										"key": "Authorization",
 										"value": "{{token}}",
-										"type": "default",
-										"disabled": true
+										"type": "default"
 									}
 								],
 								"url": {
@@ -313,8 +328,7 @@
 									{
 										"key": "Authorization",
 										"value": "{{token}}",
-										"type": "default",
-										"disabled": true
+										"type": "default"
 									}
 								],
 								"url": {
@@ -390,8 +404,17 @@
 										"type": "default"
 									}
 								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"mainAdmin\": true\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
 								"url": {
-									"raw": "{{url}}/admin/viewUsers/editUser/",
+									"raw": "{{url}}/admin/viewUsers/editUser/643dd39b5de0802ece08657e",
 									"host": [
 										"{{url}}"
 									],
@@ -399,7 +422,7 @@
 										"admin",
 										"viewUsers",
 										"editUser",
-										""
+										"643dd39b5de0802ece08657e"
 									]
 								}
 							},
@@ -457,6 +480,31 @@
 							"response": []
 						}
 					]
+				},
+				{
+					"name": "View Profile",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "{{token}}",
+								"type": "default"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/admin/viewProfile/643dd39b5de0802ece08657e",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"admin",
+								"viewProfile",
+								"643dd39b5de0802ece08657e"
+							]
+						}
+					},
+					"response": []
 				}
 			]
 		},
@@ -490,14 +538,14 @@
 									}
 								},
 								"url": {
-									"raw": "{{url}}/user/viewQuiz/643f73c25c535da872b2dbe6",
+									"raw": "{{url}}/user/viewQuiz/6440979bbc87fe79277418f9",
 									"host": [
 										"{{url}}"
 									],
 									"path": [
 										"user",
 										"viewQuiz",
-										"643f73c25c535da872b2dbe6"
+										"6440979bbc87fe79277418f9"
 									]
 								}
 							},
@@ -571,52 +619,93 @@
 					]
 				},
 				{
-					"name": "show Profile(User)",
-					"request": {
-						"method": "GET",
-						"header": [
-							{
-								"key": "Authorization",
-								"value": "{{token}}",
-								"type": "default"
-							}
-						],
-						"url": {
-							"raw": "{{url}}/user/viewUsers",
-							"host": [
-								"{{url}}"
-							],
-							"path": [
-								"user",
-								"viewUsers"
-							]
+					"name": "User Actions",
+					"item": [
+						{
+							"name": "Activation",
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/user/activation/643dd39b5de0802ece08657e",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"user",
+										"activation",
+										"643dd39b5de0802ece08657e"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "edit Profile",
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"username\":\"meow17\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{url}}/user/editProfile/6441ab2bba4cb60ca65fa1b0",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"user",
+										"editProfile",
+										"6441ab2bba4cb60ca65fa1b0"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "show Profile(User)",
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "Authorization",
+										"value": "{{token}}",
+										"type": "default"
+									}
+								],
+								"url": {
+									"raw": "{{url}}/user/viewProfile/6441ab2bba4cb60ca65fa1b0",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"user",
+										"viewProfile",
+										"6441ab2bba4cb60ca65fa1b0"
+									]
+								}
+							},
+							"response": []
 						}
-					},
-					"response": []
-				},
-				{
-					"name": "Get users",
-					"request": {
-						"method": "GET",
-						"header": [
-							{
-								"key": "Authorization",
-								"value": "{{token}}",
-								"type": "default"
-							}
-						],
-						"url": {
-							"raw": "{{url}}/user/viewUsers",
-							"host": [
-								"{{url}}"
-							],
-							"path": [
-								"user",
-								"viewUsers"
-							]
-						}
-					},
-					"response": []
+					]
 				},
 				{
 					"name": "get Token ID",
@@ -644,31 +733,6 @@
 						}
 					},
 					"response": []
-				},
-				{
-					"name": "Activation",
-					"request": {
-						"method": "PUT",
-						"header": [
-							{
-								"key": "Authorization",
-								"value": "{{token}}",
-								"type": "default"
-							}
-						],
-						"url": {
-							"raw": "{{url}}/user/activation/643fe5c034c39751106f143e",
-							"host": [
-								"{{url}}"
-							],
-							"path": [
-								"user",
-								"activation",
-								"643fe5c034c39751106f143e"
-							]
-						}
-					},
-					"response": []
 				}
 			]
 		},
@@ -682,7 +746,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n\r\n    \"username\":\"z7hz5215g\",\r\n    \"fname\":\"Moaaz\",\r\n    \"lname\":\"Gaaaad\",\r\n    \"age\":25,\r\n    \"email\":\"gggdg2g2@yhahoo.com\",\r\n    \"password\":\"12354\",\r\n    \"status\":true,\r\n    \"gender\":\"male\"\r\n\r\n}",
+							"raw": "{\r\n\r\n    \"username\":\"ssssss\",\r\n    \"fname\":\"Ahmed\",\r\n    \"lname\":\"Mahmoud\",\r\n    \"age\":21,\r\n    \"email\":\"1511@yahoo.com\",\r\n    \"password\":\"12345\",\r\n    \"status\":true,\r\n    \"gender\":\"male\"\r\n\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -709,7 +773,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"email\":\"user@yahoo.com\",\r\n    \"password\":\"11111\"\r\n}",
+							"raw": "{\r\n    \"email\":\"admin@yahoo.com\",\r\n    \"password\":\"admin\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -820,6 +884,30 @@
 							"path": [
 								"admin",
 								"logoutAll"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get users Login Check",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "{{token}}",
+								"type": "default"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/user/viewUsers",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"user",
+								"viewUsers"
 							]
 						}
 					},

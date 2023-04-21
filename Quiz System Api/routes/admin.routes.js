@@ -17,6 +17,7 @@ router.get("/subjects",auth.adminAuth,sharedController.showSubjects);
 router.get("/subjects/showAllSubjectQuestions",auth.adminAuth,adminController.showAllQuestions);
 router.get("/subjects/:id",auth.adminAuth,adminController.showSubjectQuestions);
 router.get("/subjects/showQuestion/:id&:questId",auth.adminAuth,adminController.showSingleQuestion);
+router.get("/subjects/getQuestionWithSubject/:id&:questId",auth.adminAuth,adminController.showSingleQuestionWithSubject);
 router.post("/subjects/addQuestions",auth.adminAuth,adminController.addQuestions);
 router.put("/subjects/editQuestion/:id&:questId",auth.adminAuth, adminController.editQuestion);
 router.post("/subjects/delAllSubjects",auth.adminAuth,adminController.delAllSubjects);

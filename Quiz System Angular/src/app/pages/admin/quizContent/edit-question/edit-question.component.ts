@@ -26,16 +26,19 @@ export class EditQuestionComponent {
   msgError:any = null
 constructor(private adminService:AdminService,private _router:Router,private _activatedRoute:ActivatedRoute){
   this.subId = this._activatedRoute.snapshot.paramMap.get("subId");
-  this.adminService.getSingleQuestion(this.subId,this.questId).subscribe(obj=>{
-    console.log(obj.data);
+  this.questId = this._activatedRoute.snapshot.paramMap.get("questId");
+  this.adminService.getQuestionWithSubject(this.subId,this.questId).subscribe(obj=>{
+    this.model = obj.data;
+    console.log(this.model);
   })
 
 }
   handleSubmit(form : NgForm){
 
     if(form.valid){
+      
       this.adminService.editQuestion(this.model,this.subId,this.questId).subscribe(res=>{
-        
+
         if(res.apiStatus)
         {this._router.navigateByUrl(`/subjects/question/${this.subId}/${this.questId}`);
       }

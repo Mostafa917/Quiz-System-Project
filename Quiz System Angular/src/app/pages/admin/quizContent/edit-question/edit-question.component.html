@@ -6,15 +6,6 @@
     </div>
     <div>
         <div class="w-50 mx-auto my-3">
-            <label class="text-white fs-3">Subject:</label>
-            <input type="text" placeholder="Enter Subject" class="form-control"
-             [(ngModel)]="model.subject" name="subject" #subject="ngModel" required subject minlength="2" maxlength="20">
-             <div class="alert alert-danger mt-2" *ngIf="loginform.submitted && subject.invalid">
-                <div *ngIf="subject.errors?.['required']">Subject is required</div>
-                <div *ngIf="subject.errors?.['minlength']">min length = 2</div>  
-             </div>
-        </div>
-        <div class="w-50 mx-auto my-3">
             <label class="text-white fs-3">Question Content:</label>
             <input type="text" placeholder="enter Question Content" class="form-control"
              [(ngModel)]="model.question[0].questionContent" name="questionContent" #questionContent="ngModel" required questionContent minlength="3" maxlength="400">
