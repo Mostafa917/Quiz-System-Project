@@ -1,0 +1,8227 @@
+[{
+  "_id": {
+    "$oid": "643f6b178ae64d08dd8c70a0"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:16:23.051Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:16:23.051Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f6b8b8ae64d08dd8c70b7"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:18:19.158Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:18:19.158Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f6c7d8ae64d08dd8c70ce"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:22:21.180Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:22:21.180Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f6cbc8ae64d08dd8c70dd"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:23:24.905Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:23:24.905Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f6cc08ae64d08dd8c70ec"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:23:28.753Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:23:28.753Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f6cd98ae64d08dd8c70fb"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:23:53.563Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:23:53.563Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f6e178ae64d08dd8c7112"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:29:11.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:29:17.039Z"
+  },
+  "__v": 0,
+  "result": "7 / 35"
+},{
+  "_id": {
+    "$oid": "643f6e498ae64d08dd8c712c"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:30:01.310Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:30:04.066Z"
+  },
+  "__v": 0,
+  "result": "7 / 35"
+},{
+  "_id": {
+    "$oid": "643f6ea28ae64d08dd8c7145"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:31:30.067Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:31:30.067Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f6ecb8ae64d08dd8c7154"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:32:11.091Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:33:12.192Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f6f0d8ae64d08dd8c716d"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:33:17.673Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:33:18.377Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f6f7a8ae64d08dd8c7186"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:35:06.386Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:35:07.260Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f6f8b8ae64d08dd8c719f"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:35:23.690Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:35:24.982Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f6f998ae64d08dd8c71b8"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:35:37.974Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:35:40.589Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f6fa98ae64d08dd8c71d1"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:35:53.280Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:35:53.946Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f6fbb8ae64d08dd8c71ea"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:36:11.067Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:36:11.987Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f70258ae64d08dd8c7203"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:37:57.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:40:32.918Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f70c852e63d13147823d9"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:40:40.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:40:52.893Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f70f1bd2cc5a93d5c1fae"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:41:21.712Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:41:23.084Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f71e0ba1a5c007b51d32b"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:45:20.391Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:45:20.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f725aba1a5c007b51d33a"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:47:22.354Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:47:22.354Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f7273ba1a5c007b51d349"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:47:47.314Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:47:48.623Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f7294ba1a5c007b51d362"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:48:20.132Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:48:22.161Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f72b2ba1a5c007b51d385"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:48:50.643Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:48:50.643Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f72beba1a5c007b51d394"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:49:02.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:49:07.352Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f72c8ba1a5c007b51d3ad"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:49:12.699Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:49:14.531Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f72d55c535da872b2db3e"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:49:25.260Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:49:32.323Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f73015c535da872b2db57"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:50:09.879Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:50:09.879Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f73045c535da872b2db66"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:50:12.097Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:50:12.796Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f73685c535da872b2db89"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:51:52.522Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:51:53.356Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f736c5c535da872b2dba2"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:51:56.710Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:51:57.258Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f73905c535da872b2dbc5"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:52:32.303Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:52:32.303Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f739d5c535da872b2dbd4"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:52:45.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:52:48.403Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f73ce5c535da872b2dc3c"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c45c535da872b2dbf6"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c55c535da872b2dc05"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c45c535da872b2dbf0"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c65c535da872b2dc0e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c25c535da872b2dbe7"
+      }
+    }
+  ],
+  "subject": "French",
+  "createdAt": {
+    "$date": "2023-04-19T04:53:34.559Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:53:34.559Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f73e55c535da872b2dc4b"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T04:53:57.309Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:53:57.309Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f73e85c535da872b2dc78"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c65c535da872b2dc0e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c75c535da872b2dc23"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c55c535da872b2dbfd"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c65c535da872b2dc18"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c75c535da872b2dc2f"
+      }
+    }
+  ],
+  "subject": "French",
+  "createdAt": {
+    "$date": "2023-04-19T04:54:00.070Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:54:11.782Z"
+  },
+  "__v": 0,
+  "result": "28 / 35"
+},{
+  "_id": {
+    "$oid": "643f760fe7cbae924d992e2b"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T05:03:11.373Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:03:17.090Z"
+  },
+  "__v": 0,
+  "result": "9 / 21"
+},{
+  "_id": {
+    "$oid": "643f762de7cbae924d992e5e"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T05:03:41.824Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:03:48.488Z"
+  },
+  "__v": 0,
+  "result": "7 / 35"
+},{
+  "_id": {
+    "$oid": "643f7643e7cbae924d992eaa"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T05:04:03.579Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:04:03.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f764be7cbae924d992ed0"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T05:04:11.961Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:04:15.963Z"
+  },
+  "__v": 0,
+  "result": "11 / 23"
+},{
+  "_id": {
+    "$oid": "643f767ee7cbae924d992ee8"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T05:05:02.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:05:02.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f770ee7cbae924d992ef6"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T05:07:26.593Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:07:45.297Z"
+  },
+  "__v": 0,
+  "result": "0 / 23"
+},{
+  "_id": {
+    "$oid": "643f7729e7cbae924d992f31"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T05:07:53.524Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:07:57.090Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f7733e7cbae924d992f65"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c75c535da872b2dc2f"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c65c535da872b2dc0e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c55c535da872b2dbfd"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c25c535da872b2dbe7"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f73c35c535da872b2dbeb"
+      }
+    }
+  ],
+  "subject": "French",
+  "createdAt": {
+    "$date": "2023-04-19T05:08:03.206Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:08:07.060Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f776ce7cbae924d992fce"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7768e7cbae924d992fa5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7764e7cbae924d992f7e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7764e7cbae924d992f82"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7765e7cbae924d992f8d"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7766e7cbae924d992f94"
+      }
+    }
+  ],
+  "subject": "RRRR",
+  "createdAt": {
+    "$date": "2023-04-19T05:09:00.831Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:09:08.300Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f778ee7cbae924d993013"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7764e7cbae924d992f7e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7768e7cbae924d992f9c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7766e7cbae924d992f94"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7765e7cbae924d992f87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7768e7cbae924d992fa5"
+      }
+    }
+  ],
+  "subject": "RRRR",
+  "createdAt": {
+    "$date": "2023-04-19T05:09:34.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:09:34.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f77d9e7cbae924d99314d"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f77d1e7cbae924d9930f9"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f77d0e7cbae924d9930ea"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f77d3e7cbae924d993111"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f77d2e7cbae924d993100"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f77d1e7cbae924d9930ee"
+      }
+    }
+  ],
+  "subject": "Test",
+  "createdAt": {
+    "$date": "2023-04-19T05:10:49.021Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:10:57.923Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643f7807e7cbae924d9931ac"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7803e7cbae924d993173"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7804e7cbae924d993179"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7802e7cbae924d99316a"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7804e7cbae924d993188"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f7803e7cbae924d99316e"
+      }
+    }
+  ],
+  "subject": "Testtt",
+  "createdAt": {
+    "$date": "2023-04-19T05:11:35.315Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T05:11:40.179Z"
+  },
+  "__v": 0,
+  "result": "21 / 35"
+},{
+  "_id": {
+    "$oid": "643fa04f0e04b696719a3765"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a338d73f252eacaeaa"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T08:03:27.456Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T08:03:33.605Z"
+  },
+  "__v": 0,
+  "result": "14 / 35"
+},{
+  "_id": {
+    "$oid": "643fbea50a137f199d5c9c83"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T10:12:53.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T10:12:53.877Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fc88d4608a163bb799040"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T10:55:09.569Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T10:55:17.692Z"
+  },
+  "__v": 0,
+  "result": "21 / 35"
+},{
+  "_id": {
+    "$oid": "643fc93d4608a163bb79905a"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T10:58:06.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T10:58:06.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fc9724608a163bb79906a"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae8c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T10:58:58.926Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T10:58:58.926Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fcb784608a163bb799247"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:07:36.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:07:45.688Z"
+  },
+  "__v": 0,
+  "result": "4 / 21"
+},{
+  "_id": {
+    "$oid": "643fcbf44608a163bb799261"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:09:40.122Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:09:40.122Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fcc354608a163bb799271"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:10:45.057Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:10:45.057Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fcc6c4608a163bb799281"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:11:40.304Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:11:40.304Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fcc6e4608a163bb799291"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:11:42.485Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:11:42.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fcd144608a163bb7992b5"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:14:28.486Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:14:28.486Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fcd824608a163bb7992c5"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:16:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:16:18.171Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fcd964608a163bb7992d5"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question2",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f263d4eb91c49dc504cc7"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:16:38.454Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:16:38.454Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fce164608a163bb7992e5"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question6",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "643f26464eb91c49dc504cd9"
+      }
+    },
+    {
+      "questionContent": "Question3",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "643f26404eb91c49dc504ccc"
+      }
+    },
+    {
+      "questionContent": "Question4",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f26434eb91c49dc504cd2"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f26494eb91c49dc504ce1"
+      }
+    },
+    {
+      "questionContent": "Question1",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "643f263a4eb91c49dc504cc3"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-19T11:18:46.329Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:18:46.329Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fcf304608a163bb79937d"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a138d73f252eacae87"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a038d73f252eacae83"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae92"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacae99"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643f47a238d73f252eacaea1"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T11:23:28.406Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:23:38.146Z"
+  },
+  "__v": 0,
+  "result": "14 / 35"
+},{
+  "_id": {
+    "$oid": "643fd2c04608a163bb799566"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "2",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2b54608a163bb79946f"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "2",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2b64608a163bb7994a8"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "2",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2b74608a163bb7994ea"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "2",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2b84608a163bb799535"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "2",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2b84608a163bb79951b"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T11:38:40.672Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:38:40.672Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fd2df4608a163bb79966a"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2da4608a163bb799638"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995da"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb79961f"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995f0"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T11:39:11.739Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:39:17.586Z"
+  },
+  "__v": 0,
+  "result": "21 / 35"
+},{
+  "_id": {
+    "$oid": "643fd2f84608a163bb7996b0"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb7995b1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb799607"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995f0"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995da"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T11:39:36.402Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:39:36.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fd3404608a163bb7996ca"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb799607"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb7995b1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb79961f"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T11:40:48.792Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:40:48.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fd35d4608a163bb7996e4"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995f0"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2da4608a163bb799638"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995da"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T11:41:17.176Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:41:17.176Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fd3634608a163bb7996fe"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb799607"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d64608a163bb79958c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995da"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T11:41:23.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:41:23.763Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fd88e575892ea302ae747"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995da"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2da4608a163bb799638"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb7995b1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb799607"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T12:03:26.918Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T12:03:26.918Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fdb03575892ea302ae96d"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995da"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb799607"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995f0"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb79961f"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T12:13:55.412Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T12:13:55.412Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fdb29575892ea302ae9a2"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d64608a163bb79958c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb79961f"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2da4608a163bb799638"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995f0"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T12:14:33.133Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T12:14:33.133Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fdb39575892ea302aea03"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995f0"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d64608a163bb79958c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb79961f"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T12:14:49.833Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T12:14:53.151Z"
+  },
+  "__v": 0,
+  "result": "7 / 35"
+},{
+  "_id": {
+    "$oid": "643fdb40575892ea302aea4b"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d64608a163bb79958c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995f0"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2da4608a163bb799638"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb79961f"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T12:14:56.411Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T12:14:56.411Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fe58b34c39751106f136a"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d64608a163bb79958c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2da4608a163bb799638"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb799607"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb79961f"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T12:58:51.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T12:58:56.905Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643fe59234c39751106f13d4"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d64608a163bb79958c"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995c5"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb799607"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2da4608a163bb799638"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T12:58:58.515Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T12:58:59.288Z"
+  },
+  "__v": 0,
+  "result": "0 / 35"
+},{
+  "_id": {
+    "$oid": "643fe5cd34c39751106f145c"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d84608a163bb7995f0"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb799607"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb7995b1"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d94608a163bb79961f"
+      }
+    },
+    {
+      "questionContent": "Question7",
+      "answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "643fd2d74608a163bb79959e"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-19T12:59:57.909Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T13:00:05.437Z"
+  },
+  "__v": 0,
+  "result": "14 / 35"
+},{
+  "_id": {
+    "$oid": "6440ad09bc87fe7927741e9e"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "asdasd",
+      "answer": "124",
+      "options": [
+        "124",
+        "dsad",
+        "asdsad",
+        "ff"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "64409bbabc87fe7927741952"
+      }
+    },
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "drinks",
+        "eat",
+        "drink",
+        "eats"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-20T03:10:01.210Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T03:10:01.210Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440ad0fbc87fe7927741eae"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    },
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T03:10:07.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T03:10:07.653Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440ad13bc87fe7927741ebe"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "asdasd",
+      "answer": "124",
+      "options": [
+        "124",
+        "dsad",
+        "asdsad",
+        "ff"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "64409bbabc87fe7927741952"
+      }
+    },
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "drinks",
+        "eat",
+        "drink",
+        "eats"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-20T03:10:11.400Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T03:10:18.660Z"
+  },
+  "__v": 0,
+  "result": "11 / 11"
+},{
+  "_id": {
+    "$oid": "6440ae5bbc87fe79277422ac"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "drinks",
+        "eat",
+        "drink",
+        "eats"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    },
+    {
+      "questionContent": "What is the music of Life?",
+      "answer": "Silence",
+      "options": [
+        "Silence",
+        "Rock",
+        "Pop",
+        "Rap"
+      ],
+      "mark": 9,
+      "_id": {
+        "$oid": "6440ae42bc87fe7927742269"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-20T03:15:39.440Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T03:15:56.992Z"
+  },
+  "__v": 0,
+  "result": "9 / 13"
+},{
+  "_id": {
+    "$oid": "6440d6e9bc87fe7927743597"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    },
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T06:08:41.015Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T06:08:41.015Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440de02bc87fe792774389f"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    },
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T06:38:58.954Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T06:39:01.762Z"
+  },
+  "__v": 0,
+  "result": "0 / 18"
+},{
+  "_id": {
+    "$oid": "6440f29b7cac5df125916c31"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T08:06:51.892Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T08:06:54.309Z"
+  },
+  "__v": 0,
+  "result": "7 / 7"
+},{
+  "_id": {
+    "$oid": "64411c2aa38145ad41af4970"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "drinks",
+        "eat",
+        "drink",
+        "eats"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    },
+    {
+      "questionContent": "What is the music of Life?",
+      "answer": "Silence",
+      "options": [
+        "Silence",
+        "Rock",
+        "Pop",
+        "Rap"
+      ],
+      "mark": 9,
+      "_id": {
+        "$oid": "6440ae42bc87fe7927742269"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-20T11:04:10.586Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:04:10.586Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64411edf885b50d8bb678c02"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "What is the music of Life?",
+      "answer": "Silence",
+      "options": [
+        "Silence",
+        "Rock",
+        "Pop",
+        "Rap"
+      ],
+      "mark": 9,
+      "_id": {
+        "$oid": "6440ae42bc87fe7927742269"
+      }
+    },
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "drinks",
+        "eat",
+        "drink",
+        "eats"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-20T11:15:44.007Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:15:48.457Z"
+  },
+  "__v": 0,
+  "result": "13 / 13"
+},{
+  "_id": {
+    "$oid": "64412069885b50d8bb678d8f"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    },
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T11:22:17.661Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:22:19.507Z"
+  },
+  "__v": 0,
+  "result": "8 / 18"
+},{
+  "_id": {
+    "$oid": "644124dc885b50d8bb6790f5"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    },
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T11:41:16.498Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:41:16.498Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644124de885b50d8bb67910b"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:41:18.200Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:41:18.200Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644124e2885b50d8bb679136"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    },
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T11:41:22.196Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:41:22.196Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644124e5885b50d8bb67914d"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    },
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T11:41:25.388Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:41:25.388Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644124fc885b50d8bb67917d"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    },
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T11:41:48.135Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:41:48.135Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64412512885b50d8bb6791b8"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    },
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T11:42:10.270Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:42:10.270Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64412515885b50d8bb6791cf"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    },
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T11:42:13.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:42:13.517Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64412543885b50d8bb6791e5"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:42:59.275Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:42:59.275Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64412545885b50d8bb6791fa"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:43:01.340Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:43:01.340Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64412546885b50d8bb679210"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "sdsad",
+      "answer": "4",
+      "options": [
+        "124",
+        "2",
+        "4",
+        "55"
+      ],
+      "mark": 10,
+      "_id": {
+        "$oid": "6440a73cbc87fe7927741c7a"
+      }
+    },
+    {
+      "questionContent": "sadada",
+      "answer": "5",
+      "options": [
+        "5",
+        "6",
+        "77",
+        "5"
+      ],
+      "mark": 8,
+      "_id": {
+        "$oid": "6440a721bc87fe7927741c66"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-20T11:43:02.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:43:02.815Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64412579885b50d8bb67924a"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:43:53.477Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:43:53.477Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6441257b885b50d8bb67925f"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:43:55.110Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:43:55.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64412594885b50d8bb679298"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:44:20.155Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:44:20.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644125c8885b50d8bb6792d1"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:45:12.869Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:45:12.869Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644125cb885b50d8bb6792e6"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:45:15.165Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:45:15.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64412606885b50d8bb6792fb"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:46:14.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:46:14.966Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644128c0885b50d8bb67943c"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-20T11:57:52.317Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T11:57:53.738Z"
+  },
+  "__v": 0,
+  "result": "7 / 7"
+},{
+  "_id": {
+    "$oid": "6441ef44eafaa052eefa339e"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "drinks",
+        "eat",
+        "drink",
+        "eats"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    },
+    {
+      "questionContent": "What is the music of Life?",
+      "answer": "Silence",
+      "options": [
+        "Silence",
+        "Rock",
+        "Pop",
+        "Rap"
+      ],
+      "mark": 9,
+      "_id": {
+        "$oid": "6440ae42bc87fe7927742269"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-21T02:04:52.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T02:04:52.558Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6441fa292253481f433d689d"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "drinks",
+        "eat",
+        "drink",
+        "eats"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    },
+    {
+      "questionContent": "What is the music of Life?",
+      "answer": "Silence",
+      "options": [
+        "Silence",
+        "Rock",
+        "Pop",
+        "Rap"
+      ],
+      "mark": 9,
+      "_id": {
+        "$oid": "6440ae42bc87fe7927742269"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-21T02:51:21.172Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T02:51:23.864Z"
+  },
+  "__v": 0,
+  "result": "0 / 13"
+},{
+  "_id": {
+    "$oid": "64421df96d1a7a928f193732"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Que?",
+      "answer": "Si!",
+      "options": [
+        "Si!",
+        "He",
+        "Me",
+        "We"
+      ],
+      "mark": 7,
+      "_id": {
+        "$oid": "6440e6477cac5df12591606a"
+      }
+    }
+  ],
+  "subject": "Spanish",
+  "createdAt": {
+    "$date": "2023-04-21T05:24:09.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:24:09.994Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64421e016d1a7a928f193756"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "123213",
+      "answer": "2",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644212c5c1976bd59c922901"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-21T05:24:17.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:24:19.506Z"
+  },
+  "__v": 0,
+  "result": "4 / 4"
+},{
+  "_id": {
+    "$oid": "644224816d1a7a928f19418c"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "english question 2?",
+      "answer": "he",
+      "options": [
+        "he",
+        "she",
+        "it",
+        "they"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6442243b6d1a7a928f19408b"
+      }
+    },
+    {
+      "questionContent": "What is the music of Life?",
+      "answer": "Silence",
+      "options": [
+        "Silence",
+        "Rock",
+        "Pop",
+        "Rap"
+      ],
+      "mark": 25,
+      "_id": {
+        "$oid": "6440ae42bc87fe7927742269"
+      }
+    },
+    {
+      "questionContent": "Why?",
+      "answer": "because",
+      "options": [
+        "no",
+        "yes",
+        "what?",
+        "because"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644224166d1a7a928f194021"
+      }
+    },
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "has eating",
+        "eat",
+        "eating",
+        "eats"
+      ],
+      "mark": 11,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    },
+    {
+      "questionContent": "Question?@$!@",
+      "answer": "yes",
+      "options": [
+        "no",
+        "yes",
+        "maybe",
+        "perhabs"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644223fd6d1a7a928f194004"
+      }
+    }
+  ],
+  "subject": "English",
+  "createdAt": {
+    "$date": "2023-04-21T05:52:01.744Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:52:13.580Z"
+  },
+  "__v": 0,
+  "result": "19 / 49"
+},{
+  "_id": {
+    "$oid": "644227106d1a7a928f194307"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "There are 49 dogs signed up for a dog show. There are 36 more small dogs than large dogs. How many small dogs have signed up to compete? ",
+      "answer": "42.5",
+      "options": [
+        "46",
+        "44.25",
+        "49",
+        "42.5"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221376d1a7a928f193d95"
+      }
+    },
+    {
+      "questionContent": "8.563 + 4.8292 = ?",
+      "answer": "13.3922",
+      "options": [
+        "11.3925",
+        "13.3922",
+        "12.7922",
+        "13.1962"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6442216c6d1a7a928f193dac"
+      }
+    },
+    {
+      "questionContent": "I am an odd number. Take away one letter and I become even. What number am I?",
+      "answer": "7",
+      "options": [
+        "1",
+        "5",
+        "9",
+        "7"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "644221946d1a7a928f193dc2"
+      }
+    },
+    {
+      "questionContent": "If 1=3 ,2=3 , 3=5 , 4=4 , 5=4 ,Then 6=?",
+      "answer": "3",
+      "options": [
+        "1",
+        "6",
+        "4",
+        "3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644220e26d1a7a928f193d49"
+      }
+    },
+    {
+      "questionContent": "Which number is equivalent to 3^(4)÷3^(2)",
+      "answer": "9",
+      "options": [
+        "4",
+        "9",
+        "11",
+        "7"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221126d1a7a928f193d86"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-21T06:02:56.719Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T06:02:56.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644227156d1a7a928f194331"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Which 3 numbers have the same answer whether they’re added or multiplied together?",
+      "answer": "1, 2 and 3",
+      "options": [
+        "2, 3 and 5",
+        "1, 3 and 4",
+        "1, 3 and 5",
+        "1, 2 and 3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644222046d1a7a928f193e15"
+      }
+    },
+    {
+      "questionContent": "Sally is 54 years old and her mother is 80, how many years ago was Sally’s mother times her age?",
+      "answer": "41 years ago",
+      "options": [
+        "43 years ago",
+        "35 years ago",
+        "41 years ago",
+        "39 years ago"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644222296d1a7a928f193e38"
+      }
+    },
+    {
+      "questionContent": "      The day before yesterday I was 25. The next year I will be 28. This is true only one day in a year. What day is my Birthday? ",
+      "answer": "December 31",
+      "options": [
+        "November 25",
+        "October 13",
+        "December 31",
+        "January 1"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644222546d1a7a928f193e53"
+      }
+    },
+    {
+      "questionContent": "8.563 + 4.8292 = ?",
+      "answer": "13.3922",
+      "options": [
+        "11.3925",
+        "13.3922",
+        "12.7922",
+        "13.1962"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6442216c6d1a7a928f193dac"
+      }
+    },
+    {
+      "questionContent": "Using only an addition, how do you add eight 8’s and get the number 1000?",
+      "answer": "1000",
+      "options": [
+        "700",
+        "1000",
+        "1300",
+        "500"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221c66d1a7a928f193dee"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-21T06:03:01.124Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T06:03:01.124Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644227166d1a7a928f19435b"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "There are 49 dogs signed up for a dog show. There are 36 more small dogs than large dogs. How many small dogs have signed up to compete? ",
+      "answer": "42.5",
+      "options": [
+        "46",
+        "44.25",
+        "49",
+        "42.5"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221376d1a7a928f193d95"
+      }
+    },
+    {
+      "questionContent": "Using only an addition, how do you add eight 8’s and get the number 1000?",
+      "answer": "1000",
+      "options": [
+        "700",
+        "1000",
+        "1300",
+        "500"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221c66d1a7a928f193dee"
+      }
+    },
+    {
+      "questionContent": "Which 3 numbers have the same answer whether they’re added or multiplied together?",
+      "answer": "1, 2 and 3",
+      "options": [
+        "2, 3 and 5",
+        "1, 3 and 4",
+        "1, 3 and 5",
+        "1, 2 and 3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644222046d1a7a928f193e15"
+      }
+    },
+    {
+      "questionContent": "8.563 + 4.8292 = ?",
+      "answer": "13.3922",
+      "options": [
+        "11.3925",
+        "13.3922",
+        "12.7922",
+        "13.1962"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6442216c6d1a7a928f193dac"
+      }
+    },
+    {
+      "questionContent": "If 1=3 ,2=3 , 3=5 , 4=4 , 5=4 ,Then 6=?",
+      "answer": "3",
+      "options": [
+        "1",
+        "6",
+        "4",
+        "3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644220e26d1a7a928f193d49"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-21T06:03:02.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T06:03:02.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644227176d1a7a928f194385"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "      The day before yesterday I was 25. The next year I will be 28. This is true only one day in a year. What day is my Birthday? ",
+      "answer": "December 31",
+      "options": [
+        "November 25",
+        "October 13",
+        "December 31",
+        "January 1"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644222546d1a7a928f193e53"
+      }
+    },
+    {
+      "questionContent": "Which number is equivalent to 3^(4)÷3^(2)",
+      "answer": "9",
+      "options": [
+        "4",
+        "9",
+        "11",
+        "7"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221126d1a7a928f193d86"
+      }
+    },
+    {
+      "questionContent": "If 1=3 ,2=3 , 3=5 , 4=4 , 5=4 ,Then 6=?",
+      "answer": "3",
+      "options": [
+        "1",
+        "6",
+        "4",
+        "3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644220e26d1a7a928f193d49"
+      }
+    },
+    {
+      "questionContent": "Using only an addition, how do you add eight 8’s and get the number 1000?",
+      "answer": "1000",
+      "options": [
+        "700",
+        "1000",
+        "1300",
+        "500"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221c66d1a7a928f193dee"
+      }
+    },
+    {
+      "questionContent": "I am an odd number. Take away one letter and I become even. What number am I?",
+      "answer": "7",
+      "options": [
+        "1",
+        "5",
+        "9",
+        "7"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "644221946d1a7a928f193dc2"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-21T06:03:03.722Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T06:03:03.722Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644227186d1a7a928f1943af"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "      The day before yesterday I was 25. The next year I will be 28. This is true only one day in a year. What day is my Birthday? ",
+      "answer": "December 31",
+      "options": [
+        "November 25",
+        "October 13",
+        "December 31",
+        "January 1"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644222546d1a7a928f193e53"
+      }
+    },
+    {
+      "questionContent": "Which 3 numbers have the same answer whether they’re added or multiplied together?",
+      "answer": "1, 2 and 3",
+      "options": [
+        "2, 3 and 5",
+        "1, 3 and 4",
+        "1, 3 and 5",
+        "1, 2 and 3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644222046d1a7a928f193e15"
+      }
+    },
+    {
+      "questionContent": "Sally is 54 years old and her mother is 80, how many years ago was Sally’s mother times her age?",
+      "answer": "41 years ago",
+      "options": [
+        "43 years ago",
+        "35 years ago",
+        "41 years ago",
+        "39 years ago"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644222296d1a7a928f193e38"
+      }
+    },
+    {
+      "questionContent": "Which number is equivalent to 3^(4)÷3^(2)",
+      "answer": "9",
+      "options": [
+        "4",
+        "9",
+        "11",
+        "7"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221126d1a7a928f193d86"
+      }
+    },
+    {
+      "questionContent": "8.563 + 4.8292 = ?",
+      "answer": "13.3922",
+      "options": [
+        "11.3925",
+        "13.3922",
+        "12.7922",
+        "13.1962"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6442216c6d1a7a928f193dac"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-21T06:03:04.796Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T06:03:04.796Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442271a6d1a7a928f1943d9"
+  },
+  "quizTaken": [
+    {
+      "questionContent": "Which 3 numbers have the same answer whether they’re added or multiplied together?",
+      "answer": "1, 2 and 3",
+      "options": [
+        "2, 3 and 5",
+        "1, 3 and 4",
+        "1, 3 and 5",
+        "1, 2 and 3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644222046d1a7a928f193e15"
+      }
+    },
+    {
+      "questionContent": "Using only an addition, how do you add eight 8’s and get the number 1000?",
+      "answer": "1000",
+      "options": [
+        "700",
+        "1000",
+        "1300",
+        "500"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221c66d1a7a928f193dee"
+      }
+    },
+    {
+      "questionContent": "There are 49 dogs signed up for a dog show. There are 36 more small dogs than large dogs. How many small dogs have signed up to compete? ",
+      "answer": "42.5",
+      "options": [
+        "46",
+        "44.25",
+        "49",
+        "42.5"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221376d1a7a928f193d95"
+      }
+    },
+    {
+      "questionContent": "      The day before yesterday I was 25. The next year I will be 28. This is true only one day in a year. What day is my Birthday? ",
+      "answer": "December 31",
+      "options": [
+        "November 25",
+        "October 13",
+        "December 31",
+        "January 1"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644222546d1a7a928f193e53"
+      }
+    },
+    {
+      "questionContent": "I am an odd number. Take away one letter and I become even. What number am I?",
+      "answer": "7",
+      "options": [
+        "1",
+        "5",
+        "9",
+        "7"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "644221946d1a7a928f193dc2"
+      }
+    }
+  ],
+  "subject": "Math",
+  "createdAt": {
+    "$date": "2023-04-21T06:03:06.492Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T06:03:06.492Z"
+  },
+  "__v": 0
+}]

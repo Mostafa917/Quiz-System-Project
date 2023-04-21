@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "6440979bbc87fe79277418f9"
+  },
+  "subject": "English",
+  "question": [
+    {
+      "questionContent": "The boy ____ The Banana",
+      "answer": "eats",
+      "options": [
+        "has eating",
+        "eat",
+        "eating",
+        "eats"
+      ],
+      "mark": 11,
+      "_id": {
+        "$oid": "6440979bbc87fe79277418fa"
+      }
+    },
+    {
+      "questionContent": "What is the music of Life?",
+      "answer": "Silence",
+      "options": [
+        "Silence",
+        "Rock",
+        "Pop",
+        "Rap"
+      ],
+      "mark": 25,
+      "_id": {
+        "$oid": "6440ae42bc87fe7927742269"
+      }
+    },
+    {
+      "questionContent": "English Question 1?",
+      "answer": "Answer 1",
+      "options": [
+        "Answer 1",
+        "Answer 2",
+        "Answer 3",
+        "Answer 4"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644223116d1a7a928f193ee3"
+      }
+    },
+    {
+      "questionContent": "Question??",
+      "answer": "answer 4",
+      "options": [
+        "answer 4",
+        "answer 1",
+        "answer 3",
+        "answer 2"
+      ],
+      "mark": 6,
+      "_id": {
+        "$oid": "644223e86d1a7a928f193fc8"
+      }
+    },
+    {
+      "questionContent": "Question?@$!@",
+      "answer": "yes",
+      "options": [
+        "no",
+        "yes",
+        "maybe",
+        "perhabs"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644223fd6d1a7a928f194004"
+      }
+    },
+    {
+      "questionContent": "Why?",
+      "answer": "because",
+      "options": [
+        "no",
+        "yes",
+        "what?",
+        "because"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644224166d1a7a928f194021"
+      }
+    },
+    {
+      "questionContent": "english question 2?",
+      "answer": "he",
+      "options": [
+        "he",
+        "she",
+        "it",
+        "they"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6442243b6d1a7a928f19408b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-20T01:38:35.982Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:50:51.812Z"
+  },
+  "__v": 11
+},{
+  "_id": {
+    "$oid": "644212c5c1976bd59c922900"
+  },
+  "subject": "Math",
+  "question": [
+    {
+      "questionContent": "If 1=3 ,2=3 , 3=5 , 4=4 , 5=4 ,Then 6=?",
+      "answer": "3",
+      "options": [
+        "1",
+        "6",
+        "4",
+        "3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644220e26d1a7a928f193d49"
+      }
+    },
+    {
+      "questionContent": "Which number is equivalent to 3^(4)÷3^(2)",
+      "answer": "9",
+      "options": [
+        "4",
+        "9",
+        "11",
+        "7"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221126d1a7a928f193d86"
+      }
+    },
+    {
+      "questionContent": "There are 49 dogs signed up for a dog show. There are 36 more small dogs than large dogs. How many small dogs have signed up to compete? ",
+      "answer": "42.5",
+      "options": [
+        "46",
+        "44.25",
+        "49",
+        "42.5"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221376d1a7a928f193d95"
+      }
+    },
+    {
+      "questionContent": "8.563 + 4.8292 = ?",
+      "answer": "13.3922",
+      "options": [
+        "11.3925",
+        "13.3922",
+        "12.7922",
+        "13.1962"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "6442216c6d1a7a928f193dac"
+      }
+    },
+    {
+      "questionContent": "I am an odd number. Take away one letter and I become even. What number am I?",
+      "answer": "7",
+      "options": [
+        "1",
+        "5",
+        "9",
+        "7"
+      ],
+      "mark": 3,
+      "_id": {
+        "$oid": "644221946d1a7a928f193dc2"
+      }
+    },
+    {
+      "questionContent": "Using only an addition, how do you add eight 8’s and get the number 1000?",
+      "answer": "1000",
+      "options": [
+        "700",
+        "1000",
+        "1300",
+        "500"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644221c66d1a7a928f193dee"
+      }
+    },
+    {
+      "questionContent": "Which 3 numbers have the same answer whether they’re added or multiplied together?",
+      "answer": "1, 2 and 3",
+      "options": [
+        "2, 3 and 5",
+        "1, 3 and 4",
+        "1, 3 and 5",
+        "1, 2 and 3"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644222046d1a7a928f193e15"
+      }
+    },
+    {
+      "questionContent": "Sally is 54 years old and her mother is 80, how many years ago was Sally’s mother times her age?",
+      "answer": "41 years ago",
+      "options": [
+        "43 years ago",
+        "35 years ago",
+        "41 years ago",
+        "39 years ago"
+      ],
+      "mark": 4,
+      "_id": {
+        "$oid": "644222296d1a7a928f193e38"
+      }
+    },
+    {
+      "questionContent": "      The day before yesterday I was 25. The next year I will be 28. This is true only one day in a year. What day is my Birthday? ",
+      "answer": "December 31",
+      "options": [
+        "November 25",
+        "October 13",
+        "December 31",
+        "January 1"
+      ],
+      "mark": 5,
+      "_id": {
+        "$oid": "644222546d1a7a928f193e53"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-21T04:36:21.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:42:44.880Z"
+  },
+  "__v": 10
+}]

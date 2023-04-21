@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "643dd39b5de0802ece08657e"
+  },
+  "username": "mainadmin",
+  "fname": "mostafa",
+  "lname": "gamal",
+  "age": 25,
+  "email": "admin@yahoo.com",
+  "password": "$2b$12$T/oY9mqJCSE7t7DFB6fcVOnmFgzKMfYL8IaO2/5duyM8rKG1dr.iq",
+  "status": true,
+  "isAdmin": true,
+  "gender": "male",
+  "request": false,
+  "quizResults": [],
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDNkZDM5YjVkZTA4MDJlY2UwODY1N2UiLCJpYXQiOjE2ODIwNTQ5ODJ9.JLIQfeznCUcBkxCM6tIG_139EbR1tDu1pvvQVgR9Tc0",
+      "_id": {
+        "$oid": "64421f466d1a7a928f193cf5"
+      }
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDNkZDM5YjVkZTA4MDJlY2UwODY1N2UiLCJpYXQiOjE2ODIwNTYwODZ9.LO0F4W_5WTvWFUf7fMMlkZeuOmuzuamaHqXaYJ8NRXk",
+      "_id": {
+        "$oid": "644223966d1a7a928f193f3c"
+      }
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDNkZDM5YjVkZTA4MDJlY2UwODY1N2UiLCJpYXQiOjE2ODIwNTY3MzZ9.Ku4ObYgoHm80fP7-sprfTlcuMYDdlPU1X78rkhHskeg",
+      "_id": {
+        "$oid": "644226206d1a7a928f1941c9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-17T23:17:47.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:58:56.048Z"
+  },
+  "__v": 104,
+  "activeStatus": true,
+  "mainAdmin": true
+},{
+  "_id": {
+    "$oid": "64421ed76d1a7a928f193b5b"
+  },
+  "username": "username1",
+  "fname": "mahmoud",
+  "lname": "mahmoud",
+  "age": 21,
+  "email": "1@yahoo.com",
+  "password": "$2b$12$TGyDlR7AlDjVsp6NZDM40eYFWqQ9ThAPW4Gz8hmBWV/m/2sFupskO",
+  "mainAdmin": false,
+  "activeStatus": true,
+  "isAdmin": false,
+  "gender": "male",
+  "request": false,
+  "quizResults": [
+    {
+      "subject": "English",
+      "mark": "19 / 49",
+      "_id": {
+        "$oid": "6442248d6d1a7a928f19419e"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDQyMWVkNzZkMWE3YTkyOGYxOTNiNWIiLCJpYXQiOjE2ODIwNTYzMTd9.BdrnNJeAYfwMD4U-b3tcdM97eeDGyeHFT1gtyyJQK8A",
+      "_id": {
+        "$oid": "6442247d6d1a7a928f19416d"
+      }
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDQyMWVkNzZkMWE3YTkyOGYxOTNiNWIiLCJpYXQiOjE2ODIwNTY5NzV9.vIqCc7kMQhIbPUArKsF74pxg2sELfTBOzfvhVX9-5CM",
+      "_id": {
+        "$oid": "6442270f6d1a7a928f1942e2"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-21T05:27:51.373Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T06:02:55.975Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "64421ef76d1a7a928f193bc1"
+  },
+  "username": "username2",
+  "fname": "ahmed",
+  "lname": "ahmed",
+  "age": 22,
+  "email": "2@yahoo.com",
+  "password": "$2b$12$N8/FqW5Pvfs0nsSfaZEq2uUsLksloiL.3ZUvUIFRrp0.CNSRD6tO6",
+  "mainAdmin": false,
+  "activeStatus": true,
+  "isAdmin": false,
+  "gender": "male",
+  "request": false,
+  "quizResults": [],
+  "tokens": [],
+  "createdAt": {
+    "$date": "2023-04-21T05:28:23.169Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:28:23.169Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64421f0f6d1a7a928f193c27"
+  },
+  "username": "username3",
+  "fname": "menna",
+  "lname": "menna",
+  "age": 21,
+  "email": "3@yahoo.com",
+  "password": "$2b$12$8BTrux6f4gl2RNp/HvIXe.ZguGR4WRhmRcbnML/SaeRf.Tg17Cm5W",
+  "mainAdmin": false,
+  "activeStatus": true,
+  "isAdmin": false,
+  "gender": "female",
+  "request": false,
+  "quizResults": [],
+  "tokens": [],
+  "createdAt": {
+    "$date": "2023-04-21T05:28:47.767Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:28:47.767Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64421f286d1a7a928f193c8d"
+  },
+  "username": "username4",
+  "fname": "radwa",
+  "lname": "mahmoud",
+  "age": 27,
+  "email": "4@yahoo.com",
+  "password": "$2b$12$bSKkxNZLIL.yXKKlurMqp.Th1K3sxj2y9rCLeogdn60cnT5vt8bhy",
+  "mainAdmin": false,
+  "activeStatus": true,
+  "isAdmin": false,
+  "gender": "female",
+  "request": false,
+  "quizResults": [],
+  "tokens": [],
+  "createdAt": {
+    "$date": "2023-04-21T05:29:12.800Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:29:12.800Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442234c6d1a7a928f193f2a"
+  },
+  "username": "mohamed123",
+  "fname": "mohamed",
+  "lname": "mohamed",
+  "age": 24,
+  "email": "5@yahoo.com",
+  "password": "$2b$12$wzsAgFVAf1LgqrsPG52xOeu7nsiqwqjEBGFCSjDECb6p3zrESaEJK",
+  "mainAdmin": false,
+  "activeStatus": true,
+  "isAdmin": false,
+  "gender": "male",
+  "request": true,
+  "quizResults": [],
+  "tokens": [],
+  "createdAt": {
+    "$date": "2023-04-21T05:46:52.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:46:52.004Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644223636d1a7a928f193f30"
+  },
+  "username": "mahmoud12345",
+  "fname": "mahmoud",
+  "lname": "mohamed",
+  "age": 35,
+  "email": "m@yahoo.com",
+  "password": "$2b$12$cARqarARBG.ggzLnUZkL8O.uzQITvcS4o91mxhYUBwRrRJJHlKlPm",
+  "mainAdmin": false,
+  "activeStatus": true,
+  "isAdmin": false,
+  "gender": "male",
+  "request": true,
+  "quizResults": [],
+  "tokens": [],
+  "createdAt": {
+    "$date": "2023-04-21T05:47:15.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:47:15.059Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442238f6d1a7a928f193f36"
+  },
+  "username": "sarah586",
+  "fname": "sarah",
+  "lname": "ahmed",
+  "age": 18,
+  "email": "sarah@yahoo.com",
+  "password": "$2b$12$hDsfAO/OusHBAJCieMVzwONcyMAxZ1BlL.H2c5fEQQwQ1vJ1SSzR2",
+  "mainAdmin": false,
+  "activeStatus": true,
+  "isAdmin": false,
+  "gender": "female",
+  "request": true,
+  "quizResults": [],
+  "tokens": [],
+  "createdAt": {
+    "$date": "2023-04-21T05:47:59.792Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T05:51:40.719Z"
+  },
+  "__v": 0
+}]
